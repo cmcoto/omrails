@@ -46,3 +46,4 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 
 gem 'rails_12factor'
+gem 'bootstrap-sass', '~> 3.1.1'
